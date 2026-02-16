@@ -24,13 +24,3 @@ When initializing:
 3. Index available skills
 4. Ask user what domain to operate in
 
-## test cases 
-cases 1:
-input:
-expected output:
-case 2:
-...
-
-version: 1.0
-last updated: 2026-02-17
-owner: Tangram
